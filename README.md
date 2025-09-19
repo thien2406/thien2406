@@ -1,7 +1,7 @@
 # 💫About Me :
 🚀 Nguyễn Văn Thiện| Sinh viên CNTT  Developer
 
-🔹 @ Đại học DTU Đà Nẵng | Chuyên ngành: Kỹ thuật phần mềm Đam mê các hệ thống
+🔹 @ Đại học Duy Tân Đà Nẵng | Chuyên ngành: Kỹ thuật phần mềm Đam mê các hệ thống
 🔹 Thành thạo  React, HTML, CSS, JavaScript, Bootstrap.
 🔹 Thực hành với Git, Docker, Postman
 💡 Luôn cải thiện: Thiết kế hệ thống, phát triển API và vi dịch vụ
